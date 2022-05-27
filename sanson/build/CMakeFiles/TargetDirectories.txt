@@ -1,3 +1,0 @@
-/home/ensta/in104/build/CMakeFiles/rebuild_cache.dir
-/home/ensta/in104/build/CMakeFiles/edit_cache.dir
-/home/ensta/in104/build/CMakeFiles/sfml-app.dir
